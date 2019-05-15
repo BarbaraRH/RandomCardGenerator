@@ -29,8 +29,6 @@ window.onload = function() {
     ["&#9830", "text-danger"]
   ];
 
-  //card.innerHTML = `<img src="./deck/${randomItem(numbers) + randomItem(symbols)}.png" width="200px">`;
-
   let randomNumber = randomItem(numbers);
   let randomSymbol = randomItem(symbols);
 
